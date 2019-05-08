@@ -1,7 +1,13 @@
 # SITE CONFIGURATION
+<<<<<<< HEAD
 baseurl: "/"
 url: "https://voidling.github.io/curricula-vitarum"
 title: Type on Strap # site's title
+=======
+baseurl: "/curricula-vitarum/"
+url: "https://voidling.github.io/"
+title: Jonathan MONDAUT # site's title
+>>>>>>> b68bc5c3de1a907deb6b2e8163ba22f342049672
 description: "Chinese - English - French Translation" # used by search engines
 
 
@@ -14,8 +20,13 @@ theme_settings:
   gravatar: # Email MD5 hash
 
   # Header and footer text
+<<<<<<< HEAD
   header_text: Welcome  欢迎光临  Bienvenue
   header_feature_image: assets/img/pexels/triangular.webp
+=======
+  header_text: Welcome 欢迎光临 Bienvenue
+  header_feature_image: assets/img/pexels/triangular.jpeg
+>>>>>>> b68bc5c3de1a907deb6b2e8163ba22f342049672
   footer_text: >
     Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
