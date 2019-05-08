@@ -1,14 +1,14 @@
 # SITE CONFIGURATION
 baseurl: "/"
 url: "https://voidling.github.io/curricula-vitarum"
-title: Type on Strap # site's title
-description: "A website with blog posts and pages" # used by search engines
+title: Jonathan MONDAUT # site's title
+description: "Chinese - English - French Translation" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type on Strap # blog's title
+  title: Jonathan MONDAUT # blog's title
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
