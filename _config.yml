@@ -1,8 +1,8 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
-title: Type on Strap # site's title
-description: "A website with blog posts and pages" # used by search engines
+baseurl: "/curricula-vitarum/"
+url: "https://voidling.github.io/"
+title: Jonathan MONDAUT # site's title
+description: "Chinese - English - French Translation" # used by search engines
 
 
 # THEME-SPECIFIC CONFIGURATION
@@ -14,7 +14,7 @@ theme_settings:
   gravatar: # Email MD5 hash
 
   # Header and footer text
-  header_text: Change header text in <code>_config.yml</code>
+  header_text: Welcome 欢迎光临 Bienvenue
   header_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
     Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
@@ -28,7 +28,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "sylhare"
+  github: "Voidling"
   google_plus:
   instagram:
   keybase:
@@ -48,7 +48,7 @@ theme_settings:
   share_buttons:
     facebook: true
     twitter: true
-    google_plus: true
+    google_plus: 
     tumblr:
     pinterest:
     pocket:
