@@ -6,9 +6,8 @@ feature-img: "assets/img/pexels/circuit.webp"
 tags: [About, Archive]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+My name is Jonathan. I am Master student in France, Bordeaux Montaigne University specialized in chinese. I have some computer science and linguistics background which allow me to be a jack of all trades and to be able to understand all sorts of fields. My Master have a strong translation orientation, this is why I can now provide translation services efficiently.
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+我叫嶽南丹。我在法国波尔多蒙田大学读汉学研究生。因为我有计算机和语言学背景，我能提供做各种各样服务，而且了解许多领域。波尔多汉学项目有诸多关于翻译的课程，所以我能够提供翻译服务。
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+Je m'appelle Jonathan. Je suis élève de Master de l'Université Bordeaux Montaigne spécialisé en études chinoises. J'ai auparavant fais des études en Développement Informatique et en Sciences du Langage, ce qui me permet d'être polyvalent et d'être capable de comprendre beaucoup de domaines différents. Mon Master offre un panel important de cours sur la Traduction, par conséquent je suis capable de fournir un service de traduction efficace.
