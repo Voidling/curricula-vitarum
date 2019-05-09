@@ -11,3 +11,5 @@ Pricing:
 <ul>
 	<li>0.05 euros or 0.40 yuans by French word or by Chinese character</li>
 </ul>
+
+{% include contact.html %}

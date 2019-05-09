@@ -9,19 +9,19 @@ description: "Chinese - English - French Translation" # used by search engines
 theme_settings:
   # Meta
   title: Jonathan MONDAUT # blog's title
-  avatar: assets/img/triangle.svg
+  avatar: assets/img/china_france.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
   # Header and footer text
   header_text: Welcome 欢迎光临 Bienvenue
-  header_feature_image: assets/img/pexels/triangular.jpeg
+  header_feature_image: 
   footer_text: >
     Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "mondautjonathan@gmail.com" # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:

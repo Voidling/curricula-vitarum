@@ -12,3 +12,5 @@ Pricing:
 	<li>20 euros | 150 yuans by page for a paper</li>
 	<li>12 euros | 100 yuans by page for a resume</li>
 </ul>
+
+{% include contact.html %}
